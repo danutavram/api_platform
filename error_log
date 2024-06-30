@@ -65,3 +65,63 @@
 [28-Jun-2024 08:16:23 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred in the driver: SQLSTATE[HY000] [1049] Unknown database 'cheese_whiz'"
 [28-Jun-2024 08:16:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
 [28-Jun-2024 08:16:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 08:52:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 08:52:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 08:52:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 09:49:24 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 09:49:30 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 09:49:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:10:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:10:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:11:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:14:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:14:45 UTC] [critical] Error thrown while running command "debug:container --show-private --format=json". Message: "The "--show-private" option does not exist."
+[28-Jun-2024 15:14:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:15:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:15:09 UTC] [critical] Error thrown while running command "debug:container --show-private --format=json". Message: "The "--show-private" option does not exist."
+[28-Jun-2024 15:15:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:15:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:16:02 UTC] [critical] Error thrown while running command "debug:container --show-private --format=json". Message: "The "--show-private" option does not exist."
+[28-Jun-2024 15:31:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:32:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:32:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:32:34 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:33:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:33:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:33:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:33:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:34:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:35:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:37:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 15:37:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:00:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:02:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:02:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:02:37 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred while executing a query: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`cheese_whiz`.`#sql-1c74_34`, CONSTRAINT `FK_356577D47E3C61F9` FOREIGN KEY (`owner_id`) REFERENCES `user` (`id`))"
+[28-Jun-2024 16:04:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:04:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:04:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:04:38 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred while executing a query: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cheese_whiz.cheese_listing' doesn't exist"
+[28-Jun-2024 16:04:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[28-Jun-2024 16:04:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 09:46:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 16:02:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:28:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:28:50 UTC] [critical] Uncaught Error: Unknown named parameter $itemOperations
+[29-Jun-2024 17:42:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:42:56 UTC] [critical] Uncaught Error: Doctrine\ORM\Mapping\OneToMany::__construct(): Argument #3 ($cascade) must be of type ?array, string given, called in F:\workspace\api_platform\src\Entity\User.php on line 57
+[29-Jun-2024 17:43:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:45:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:45:32 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:45:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:45:44 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred while executing a query: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'cheese_listing' already exists"
+[29-Jun-2024 17:46:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:46:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:46:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:48:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:48:27 UTC] [critical] Error thrown while running command "doctrine:schema:drop --full-database --force". Message: "Doctrine\ORM\Mapping\OneToMany::__construct(): Argument #3 ($cascade) must be of type ?array, string given, called in F:\workspace\api_platform\src\Entity\User.php on line 57"
+[29-Jun-2024 17:48:27 UTC] [critical] Uncaught Error: Doctrine\ORM\Mapping\OneToMany::__construct(): Argument #3 ($cascade) must be of type ?array, string given, called in F:\workspace\api_platform\src\Entity\User.php on line 57
+[29-Jun-2024 17:48:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[29-Jun-2024 17:48:41 UTC] [critical] Error thrown while running command "doctrine:schema:drop -f". Message: "Doctrine\ORM\Mapping\OneToMany::__construct(): Argument #3 ($cascade) must be of type ?array, string given, called in F:\workspace\api_platform\src\Entity\User.php on line 57"
+[29-Jun-2024 17:48:41 UTC] [critical] Uncaught Error: Doctrine\ORM\Mapping\OneToMany::__construct(): Argument #3 ($cascade) must be of type ?array, string given, called in F:\workspace\api_platform\src\Entity\User.php on line 57
+[30-Jun-2024 09:42:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
